@@ -1,0 +1,10 @@
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\ClientProject.ClientForm.resources
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\Klient.csproj.GenerateResource.Cache
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\nax19\Downloads\ProjektWSB-master\ClientProject\obj\Debug\Klient.csprojResolveAssemblyReference.cache
